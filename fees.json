@@ -1,0 +1,92 @@
+[
+    {
+        "from_chain_id": 4,
+        "to_chain_id": 3,
+        "n_txs": "1",
+        "total_fees": "0"
+    },
+    {
+        "from_chain_id": 4,
+        "to_chain_id": 5,
+        "n_txs": "2",
+        "total_fees": "1149519540230000000"
+    },
+    {
+        "from_chain_id": 3,
+        "to_chain_id": 5,
+        "n_txs": "10",
+        "total_fees": "181112300541000000"
+    },
+    {
+        "from_chain_id": 1,
+        "to_chain_id": 5,
+        "n_txs": "4",
+        "total_fees": "5088349398000000"
+    },
+    {
+        "from_chain_id": 1,
+        "to_chain_id": 3,
+        "n_txs": "4",
+        "total_fees": "11434179680000000"
+    },
+    {
+        "from_chain_id": 2,
+        "to_chain_id": 5,
+        "n_txs": "19",
+        "total_fees": "4063635158255000000"
+    },
+    {
+        "from_chain_id": 5,
+        "to_chain_id": 4,
+        "n_txs": "2",
+        "total_fees": "12219007621952000000"
+    },
+    {
+        "from_chain_id": 5,
+        "to_chain_id": 3,
+        "n_txs": "6",
+        "total_fees": "41131463414634000000"
+    },
+    {
+        "from_chain_id": 5,
+        "to_chain_id": 2,
+        "n_txs": "10",
+        "total_fees": "73103658536590000000"
+    },
+    {
+        "from_chain_id": 5,
+        "to_chain_id": 1,
+        "n_txs": "4",
+        "total_fees": "421655160555705000000"
+    },
+    {
+        "from_chain_id": 3,
+        "to_chain_id": 2,
+        "n_txs": "3",
+        "total_fees": "48205579114000000"
+    },
+    {
+        "from_chain_id": 4,
+        "to_chain_id": 2,
+        "n_txs": "1",
+        "total_fees": "686481110475000000"
+    },
+    {
+        "from_chain_id": 1,
+        "to_chain_id": 2,
+        "n_txs": "1",
+        "total_fees": "3045936068000000"
+    },
+    {
+        "from_chain_id": 2,
+        "to_chain_id": 3,
+        "n_txs": "4",
+        "total_fees": "961727972628000000"
+    },
+    {
+        "from_chain_id": 3,
+        "to_chain_id": 4,
+        "n_txs": "2",
+        "total_fees": "40317021768000000"
+    }
+]

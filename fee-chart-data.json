@@ -1,0 +1,23 @@
+{
+    "type": "line",
+    "title": "Fees",
+    "percentage": -0.06818181818181818,
+    "series": [
+        122,
+        134,
+        146,
+        138,
+        158,
+        144,
+        163
+    ],
+    "categoriesX": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+    ]
+}
